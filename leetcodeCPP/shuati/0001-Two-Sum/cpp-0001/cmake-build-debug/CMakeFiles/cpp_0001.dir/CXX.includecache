@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangchenlong/Documents/mooc/基础部分/leetcodeBOBO/Play-Leetcode/0001-Two-Sum/cpp-0001/main.cpp
+iostream
+-
+vector
+-
+
