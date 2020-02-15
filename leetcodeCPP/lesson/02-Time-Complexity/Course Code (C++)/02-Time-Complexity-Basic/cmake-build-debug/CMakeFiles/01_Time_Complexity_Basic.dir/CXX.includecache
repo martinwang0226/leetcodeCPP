@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangchenlong/Documents/mooc/基础部分/leetcodeBOBO/coding-82/02-Time-Complexity/Course Code (C++)/02-Time-Complexity-Basic/main.cpp
+iostream
+-
+cmath
+-
+ctime
+-
+
